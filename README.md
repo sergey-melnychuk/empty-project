@@ -1,6 +1,6 @@
 # empty-project
 
-## Usage:
+## Usage
 
 Clone a repository from specific branch (project template) into new directory:
 
@@ -11,3 +11,8 @@ Don't forget to remove the link to this repository and template's commit history
 `cd new-project-name && rm -rf .git`
 
 At this point you have runnable template where you just need to rename project and packages.
+
+## Templates
+
+- `maven-java8-junit5`
+- `sbt-scala2.13-play2.7`
