@@ -15,4 +15,6 @@ At this point you have runnable template where you just need to rename project a
 ## Templates
 
 - `maven-java8-junit5`
-- `sbt-scala2.13-play2.7`
+- `sbt-scala2.13-play2.7
+- `bazel-cpp-gtest`
+
